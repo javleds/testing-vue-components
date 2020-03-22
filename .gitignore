@@ -1,3 +1,8 @@
 node_modules/
 .vscode/settings.json
 yarn.lock
+.idea/
+
+specs/__snapshots__/
+yarn-error.log
+
